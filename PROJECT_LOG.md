@@ -31,5 +31,8 @@ C:\msys64\usr\bin\bash.exe -c "export PATH=/ucrt64/bin:/usr/bin:$PATH; cd /c/Use
 
 **Verified:** Compiles and prints "ThreadForge server starting..."
 
+**Documentation added:**
+- `docs/STEP1_GUIDE.md` - Visual teaching guide with ASCII diagrams
+
 **Next step:**
 - Step 2: Build a basic TCP socket server (listen for connections)
