@@ -4,7 +4,7 @@ A multithreaded HTTP web server built from scratch in C++.
 
 ## Goal
 
-Learn networking, threading, and HTTP by building a real server — one step at a time.
+Learning networking, threading, and HTTP. I am building a real server.
 
 ## Build
 
